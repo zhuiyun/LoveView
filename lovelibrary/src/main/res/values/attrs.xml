@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoveView">
+        <attr name="selectedColor" format="color|reference"></attr>
+        <attr name="normalColor" format="color|reference"></attr>
+        <attr name="strokeWidth" format="dimension"></attr>\
+        <attr name="duration" format="integer"></attr>
+    </declare-styleable>
+</resources>
