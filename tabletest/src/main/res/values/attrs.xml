@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TableView" >
+        <attr name="coordinateColor" format="color|reference"></attr>
+        <attr name="coordinateWidth" format="dimension"></attr>
+        <attr name="brokenLineColor" format="color|reference"></attr>
+        <attr name="brokenLineWidth" format="dimension"></attr>
+        <attr name="circleColor" format="color|reference"></attr>
+        <attr name="circleRadius" format="dimension"></attr>
+    </declare-styleable>
+</resources>
